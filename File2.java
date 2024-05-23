@@ -1,4 +1,4 @@
-class File1
+class File2
 {
 	public static void main(String args[])
 	{
